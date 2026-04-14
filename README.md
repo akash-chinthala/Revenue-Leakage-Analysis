@@ -43,6 +43,10 @@ This project focuses on identifying revenue leakage by comparing expected revenu
     * Cancelled orders with payments
 
 4️⃣ Dashboard Development (Power BI)
+
+📊 Power BI Dashboard
+
+![Revenue Leakage Dashboard](Power%20Bi%20Dash/dash_img.png)
 Created an interactive dashboard with:
 📌 KPI Metrics
 * Total Expected Revenue
