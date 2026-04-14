@@ -1,7 +1,7 @@
 ## 🧑‍💻 Developer Documentation
 
 ### Architecture
-SQL → Power BI
+Excel → SQL → Power BI
 
 ### Logic
 Expected = price + freight  
